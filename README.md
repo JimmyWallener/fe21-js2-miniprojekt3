@@ -4,7 +4,6 @@ https://github.com/felixrydberg/fe21-js2-miniprojekt3/projects/1)
 Fördelning:
 
 - Cart.js: Jimmy har skapat logiken, Felix har lagt till egenskaper underutveckling
-- Patch.js: Skapades och skrevs av Jimmy
 - DB.js: Skapades och skrevs av Jimmy
 - Products.js: Skapades och skrevs av Felix
 - App.js: Skapades av Felix. Felix och Jimmy har arbetat i denna fil. Jimmy har refactorat delar av Felix kod
