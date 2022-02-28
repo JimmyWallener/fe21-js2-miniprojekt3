@@ -1,5 +1,5 @@
-Note: Kanban Project med issues finns på Github repot
-https://github.com/felixrydberg/fe21-js2-miniprojekt3/projects/1
+Note: Kanban Project med issues finns på [Github repot](
+https://github.com/felixrydberg/fe21-js2-miniprojekt3/projects/1)
 
 Fördelning:
 
